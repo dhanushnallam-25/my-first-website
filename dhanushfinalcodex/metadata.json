@@ -1,0 +1,6 @@
+{
+  "name": "WealthFlow",
+  "description": "A beautiful, responsive, and secure personal finance tracker with multi-user simulated authentication, rich analytics, smart budgeting, and persistent storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
