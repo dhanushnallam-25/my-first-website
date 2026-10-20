@@ -90,7 +90,7 @@ Boot the local development server on port `3000`:
 ```bash
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) to view the live app.
+Open [https://my-first-website-three-weld.vercel.app/](https://my-first-website-three-weld.vercel.app/) to view the live app.
 
 ---
 
